@@ -52,6 +52,10 @@
     "languages": [
       {
         "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
         "level": "Native or bilingual proficiency"
       }
     ],
