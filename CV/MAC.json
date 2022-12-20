@@ -26,6 +26,20 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/david-mazun-calvo-0b7348215/"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Mi meta final, no tan final",
+        "fact": "Actualmente busco hacer un cambio de carrera, incluso empezare el ciclo escolar en **Ingeniería en Sistemas Computacionales** y aun que planeo terminar la carrera y buscar incluso un doctorado, mi verdadera meta al final, es la de poder crear un **videojuego** para consolas.\nCuando lo logré, pensare en otra meta más."
+      },
+      {
+        "topic": "Mis deportes",
+        "fact": "El predilecto siempre a sido la **La natacion**.\nHe practicado **artes marciales** y también **Triatlón**"
+      },
+      {
+        "topic": "La música que no me gusta",
+        "fact": "En general escucho cualquier tipo de música, pero las única que **no** me gustan, son música que habla explícitamente sobre **drogas**, **sexo** y **narcotráfico**."
+      }
     ]
   },
   "experience": {
