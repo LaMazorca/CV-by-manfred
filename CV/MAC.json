@@ -1,0 +1,110 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Mazun Calvo",
+      "title": "Paramédico en Zona Arqueológica de Dzibilchaltun",
+      "description": "Actualmente trabajo como paramédico en el sector turístico que me ha enseñado a tener que adaptarme de manera inmediata a situaciones estresantes, por el sector en el que estoy he podido desenvolverme un poco en el idioma ingles para poder comunicarme y actualmente busco hacer un cambio de carrera comenzando el ciclo escolar en Ingeniaría en sistemas computacionales, con un año de cursos y practicas en desarrollo FrontEnd en mi GitHub, mi aprendizaje hasta ahora a sido autodidacta en programación y en el inglés; y siempre me he caracterizado por la facilidad de aprendizaje y lo rápido que me puedo desenvolver con ese aprendizaje.",
+      "avatar": {
+        "alt": ""
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-mazun-calvo-0b7348215/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Zona Arqueológica de Dzibilchaltún "
+        },
+        "roles": [
+          {
+            "name": "Paramédico",
+            "startDate": "2019-04-01",
+            "challenges": [
+              {
+                "description": "Skills: Servicios de emergencia · Inglés · Ambulancia · Paramédico · Servicios médicos de emergencia · Asistencia sanitaria · Primeros auxilios · Reanimación cardiopulmonar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/david-mazun-calvo-0b7348215/"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
