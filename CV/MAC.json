@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "México",
         "region": "Yucatán",
-        "municipality": "Mérida",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Mérida"
       }
     },
     "relevantLinks": [
@@ -54,7 +53,7 @@
             "startDate": "2019-04-01",
             "challenges": [
               {
-                "description": "Skills: Servicios de emergencia · Inglés · Ambulancia · Paramédico · Servicios médicos de emergencia · Asistencia sanitaria · Primeros auxilios · Reanimación cardiopulmonar"
+                "description": "Skills: Servicios de emergencia · Inglés (básico) · Ambulancia · Paramédico · Servicios médicos de emergencia · Asistencia sanitaria · Primeros auxilios · Reanimación cardiopulmonar"
               }
             ]
           }
@@ -65,12 +64,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -325,7 +322,6 @@
         "Mobile Developer",
         "Security Engineer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
