@@ -11,9 +11,13 @@
       "title": "Paramédico en Zona Arqueológica de Dzibilchaltun",
       "description": "Actualmente trabajo como paramédico en el sector turístico que me ha enseñado a tener que adaptarme de manera inmediata a situaciones estresantes, por el sector en el que estoy he podido desenvolverme un poco en el idioma ingles para poder comunicarme y actualmente busco hacer un cambio de carrera comenzando el ciclo escolar en Ingeniaría en sistemas computacionales, con un año de cursos y practicas en desarrollo FrontEnd en mi GitHub, mi aprendizaje hasta ahora a sido autodidacta en programación y en el inglés; y siempre me he caracterizado por la facilidad de aprendizaje y lo rápido que me puedo desenvolver con ese aprendizaje.",
       "avatar": {
-        "alt": ""
+        "alt": "MazunCalvoDavid.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/00ea21c3-e1f6-4022-902d-7d1d70094b61_mazuncalvodavid.jpg"
       },
       "location": {
+        "country": "México",
+        "region": "Yucatán",
+        "municipality": "Mérida",
         "notes": "Autocompleted using Google Maps API"
       }
     },
