@@ -116,6 +116,21 @@
     ],
     "studies": [
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "La Era de los DEVs <LATAM DEV SUMMIT>",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Workana",
+          "description": "Evento en línea",
+          "URL": "https://drive.google.com/file/d/1NqbcRuMBAG_GrttpCvF-_p1s8GfCSl6n/view?usp=share_link",
+          "image": {
+            "alt": "workana-logo-2x.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/5beafa07-e048-4672-8bf6-9503a6adbe40_workana-logo-2x.png"
+          }
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Fundamentos del desarrollo web: Full Stack o Front-end",
