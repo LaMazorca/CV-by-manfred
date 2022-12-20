@@ -113,6 +113,33 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Fundamentos del desarrollo web: Full Stack o Front-end",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "Curso en línea otorgado por LinkedIn Learning de duración de 55 minutos, sobre la forma de trabajar con JavaScript",
+          "URL": "https://drive.google.com/file/d/1D5g2jyBCCVlFsWoEGWIwkAI8xX5pER5i/view?usp=share_link",
+          "image": {
+            "alt": "Linkedin-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/58cf9a80-1fe7-4ba0-9419-755dc38eb556_linkedin-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
